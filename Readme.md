@@ -13,7 +13,7 @@ Our team consisted of one amazing instructor and six other members. There were a
 
 - Enyinnaya Ukairo → Preprocessing, 
 
-- [Nikhil Venkat](nikhilvenkat.space) → Final Model Training, Design, Data Collection, and Design
+- [Nikhil Venkat](www.nikhilvenkat.space) → Final Model Training, Design, Data Collection, and Design
 
 - Kayden Walton → Website Creation, Preprocessing
 
