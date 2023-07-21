@@ -1,6 +1,13 @@
 # Sentiment Scope Project
 
-## About the Team:
+## 🙋‍♂️ About the Project:
+  -Sentiment Analysis model for tweets
+  -V1 was made at a 3-week camp at [AI Camp](https://www.ai-camp.org/)
+  -Our model is published for free on hugging-face
+  -Front end is a website which you can access here
+
+
+## 🤝 About the Team:
 Our team consisted of one amazing instructor and six other members. There were a variety of responsibilities to manage during this project, so we chose the roles that played with our strengths. The tasks ranged from processing our data before it was trained to training the model to incorporating our model onto the final site. 
 
 - Priyansh → instructor 
@@ -18,7 +25,7 @@ Our team consisted of one amazing instructor and six other members. There were a
 - Kayden Walton → Website Creation, Preprocessing
 
 ## How To Use The Project:
-There is no need to install anything! Simply nagivate to the Sentiment Scope tab on the top right corner and enter your short message to analyze. The result should be displayed shortly! 
+There is no need to install anything! Simply navigate to the Sentiment Scope tab on the top right corner and enter your short message to analyze. The result should be displayed shortly! 
 
 ### Templates
 This Folder contains all the HTML pages for the project. 
