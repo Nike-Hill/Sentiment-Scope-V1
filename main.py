@@ -12,8 +12,8 @@ def query(API_URL, headers, payload):
 
 def inference_model(text):
 
-  API_URL = "https://api-inference.huggingface.co/models/TheJournal/good_sentiment_model"
-  headers = {"Authorization": "Bearer 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"}
+  API_URL = "https://api-inference.huggingface.co/models/TheJournal/good_sentiment_model4"
+  headers = {"Authorization": "Bearer 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"}
 
   output = query(API_URL, headers, {
     "inputs": text,
