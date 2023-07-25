@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sentiment Analysis Results</title>
+  <link href="static/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <div class="container">
+  <h1 class="font">Data from the textarea:</h1>
+  <br>
+    <p class="font">{{ textarea_data }}</p>
+
+    <iframe width="800" height="500" title="Graph of sentiments" src="{{url_for('static', filename='graph.html')}}"></iframe> <br><br>
+                        
+  </div>
+</body>
+</html>
